@@ -1,5 +1,5 @@
 # 4chan's source code
 
-1. **Only for educational purposes only**, I was curious about this code and I got it. I only host it if the original repo will be taken down.
+1. **I only host it to prevent situations where code is lost because ONE original repo was be taken down**, it can happen, really.
 
-2. **This code is not mine**, I can takedown it immediatelly if the 4chan administrator reaches out to me.
+2. **This code is not even mine**.
